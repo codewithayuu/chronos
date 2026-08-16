@@ -1,0 +1,6 @@
+{
+  "name": "Project Iris",
+  "description": "The Many-Eyed Messenger - Deterministic AI Social Media Manager powered by 8 mathematical engines working in tandem with real-time telemetry and dissent-aware agent feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
